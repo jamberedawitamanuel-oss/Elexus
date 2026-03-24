@@ -1,0 +1,7 @@
+{
+  "name": "Elexus AI",
+  "description": "A sophisticated, atmospheric AI assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
